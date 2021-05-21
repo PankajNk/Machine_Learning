@@ -3,7 +3,7 @@
  ---> If you finish the challenge without help of answer,
       you can DM me (saying you lose ) at https://www.linkedin.com/in/pankaj-naik-50503217a
  ---> Don't see the answer :) :)
-## Here we have 5 question
+## Best of Luck 👍👍
 ### 1.Problem on Entropy
       • Consider a case of 50 student, out of which 35Passed (P) and 15 Failed (F) in the Certification Exam. Write a program to compute Entropy for the given information.
       • If we have the information that some of the candidates have undergone training and some didn’t. Based on it split the dataset, let say 20 people undergone the training 
@@ -43,3 +43,5 @@
       • Drop other two features for simplicity.
       • Try to Use K Mean Clustering
       • Analyse the Data Visually by comparing before and after the training.
+      
+Happy to see any change.
