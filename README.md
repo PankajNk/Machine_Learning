@@ -1,8 +1,8 @@
-# Hi folks, if ever learnt something about Machine Learning , I have a Challenge for you.
+# Hi folks, if you ever learnt something about Machine Learning , I have a Challenge for you.
  ---> Challenge is simple solve the below question.
- ---> See the answer at last
  ---> If you finish the challenge without help of answer,
       you can DM me (saying you lose ) at https://www.linkedin.com/in/pankaj-naik-50503217a
+ ---> Don't see the answer :) :)
 ## Here we have 5 question
 ### 1.Problem on Entropy
       • Consider a case of 50 student, out of which 35Passed (P) and 15 Failed (F) in the Certification Exam. Write a program to compute Entropy for the given information.
